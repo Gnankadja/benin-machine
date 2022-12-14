@@ -1,0 +1,24 @@
+{
+  "name": "benin-machine",
+  "version": "1.0.0",
+  "description": "Benin Machine est un projet qui vise à permettre à tout les agriculteurs de louer des machines sans la moindre difficulté",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gnankadja/benin-machine.git"
+  },
+  "author": "nathan_dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gnankadja/benin-machine/issues"
+  },
+  "homepage": "https://github.com/Gnankadja/benin-machine#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
